@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 
-## Why Jack
+## Why Jack?
 
 Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
 cur, aut in adhuc crimina **habebat**: pro.
